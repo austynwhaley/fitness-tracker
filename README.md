@@ -6,6 +6,8 @@ Copyright (c) [2020] [Austyn Whaley]
 
 ---
 
+![Screenshot](./FTSS.png)
+
 ### Table of Contents
 
 - [Description](#description)
